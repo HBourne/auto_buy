@@ -1,4 +1,4 @@
 # AutoBuyScripts
 
-WIP repo.
-Please modify yourself it u'd like to use.
+## WIP repo!!!
+Please do modify yourself it u'd like to use.
